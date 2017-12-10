@@ -10,3 +10,6 @@
 [submodule "h264bitstream"]
 	path = h264bitstream
 	url = https://github.com/aizvorski/h264bitstream
+[submodule "libv4lconvert"]
+	path = libv4lconvert
+	url = https://github.com/ashwing920/libv4lconvert
